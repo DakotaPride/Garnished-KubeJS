@@ -40,7 +40,7 @@ authors="DakotaPride" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Cashews! Almonds! Walnuts...
+KubeJS Create: Garnished Integration
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.garnished_kubejs]] #optional
