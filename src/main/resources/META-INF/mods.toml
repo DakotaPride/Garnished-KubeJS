@@ -67,7 +67,7 @@ side="BOTH"
 [[dependencies.garnished_kubejs]]
 modId="create"
 mandatory=true
-versionRange="[0.5.0.i,)"
+versionRange="[6.0.1,)"
 ordering="NONE"
 side="BOTH"
 
